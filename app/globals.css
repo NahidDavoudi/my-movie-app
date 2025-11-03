@@ -1,0 +1,84 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+
+  /* Design System - Colors */
+  --ds-color-primary: #3b5998;
+  --ds-color-primary-light: #8b9dc3;
+  --ds-color-background: #000000;
+  --ds-color-surface: #1a1a1a;
+  --ds-color-border: #dfe3ee;
+  --ds-color-text-primary: #ffffff;
+  --ds-color-text-secondary: #f7f7f7;
+  --ds-color-text-link: #3b5998;
+  --ds-color-text-link-hover: #8b9dc3;
+  --ds-color-badge-bg: #3b5998;
+  --ds-color-badge-text: #ffffff;
+  --ds-color-notification-bg: #1a1a1a;
+  --ds-color-notification-border: #3b5998;
+
+  /* Design System - Radius */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+
+  /* Design System - Shadows */
+  --shadow-neumorphic-light: inset -5px -5px 10px rgba(255, 255, 255, 0.1);
+  --shadow-neumorphic-dark: inset 5px 5px 10px rgba(0, 0, 0, 0.6);
+  --shadow-neumorphic-card: 8px 8px 16px rgba(0, 0, 0, 0.6),
+    -8px -8px 16px rgba(223, 227, 238, 0.2);
+  --shadow-card: 8px 8px 16px rgba(0, 0, 0, 0.6),
+    -8px -8px 16px rgba(223, 227, 238, 0.2);
+
+  /* Design System - Components (optional vars) */
+  --ds-card-background: #1a1a1a;
+  --ds-card-border: #dfe3ee;
+  --ds-input-background: #1a1a1a;
+  --ds-input-color: #ffffff;
+  --ds-input-border: #dfe3ee;
+
+  /* Design System - Typography */
+  --ds-font-family: Arial, sans-serif;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+
+  /* Theme tokens from DS (Tailwind v4) */
+  --color-primary: var(--ds-color-primary);
+  --color-primary-light: var(--ds-color-primary-light);
+  --color-surface: var(--ds-color-surface);
+  --color-border: var(--ds-color-border);
+  --color-text-primary: var(--ds-color-text-primary);
+  --color-text-secondary: var(--ds-color-text-secondary);
+  --color-text-link: var(--ds-color-text-link);
+  --color-text-link-hover: var(--ds-color-text-link-hover);
+  --color-badge-text: var(--ds-color-badge-text);
+
+  --radius-sm: var(--radius-sm);
+  --radius-md: var(--radius-md);
+  --radius-lg: var(--radius-lg);
+
+  --shadow-neumorphic-light: var(--shadow-neumorphic-light);
+  --shadow-neumorphic-dark: var(--shadow-neumorphic-dark);
+  --shadow-neumorphic-card: var(--shadow-neumorphic-card);
+  --shadow-card: var(--shadow-card);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
