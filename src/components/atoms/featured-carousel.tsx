@@ -1,6 +1,7 @@
 "use client"
+
 import React, { useEffect, useMemo, useState } from 'react';
-import { imdbMovies, Movie } from '@/data/imdbData';
+import { imdbMovies } from '@/data/imdbData';
 import CarouselCard from './carousel/CarouselCard';
 import FeaturedCard from './carousel/FeaturedCard';
 import CarouselNavigation from './carousel/CarouselNavigation';
@@ -10,7 +11,7 @@ import { VisibleMovie } from './carousel/types';
 const VISIBLE_OFFSETS = [-2, -1, 0, 1, 2] as const;
 
 const FeaturedCarousel = () => {
-  const movies = useMemo<Movie[]>(() => {
+  const movies = useMemo(() => {
     return [...imdbMovies]
       .filter((movie) => Boolean(movie.poster))
       .sort((a, b) => b.rating - a.rating)
@@ -64,11 +65,11 @@ const FeaturedCarousel = () => {
   }
 
   return (
-    <div className="w-full bg-gradient-to-b from-background via-background/95 to-surface/80 py-16 pb-24 overflow-hidden">
+    <div className="w-full bg-gradient-to-b from-background via-background/95 to-surface/80 py-12 md:py-16 pb-20 md:pb-24 overflow-hidden">
       {/* Header */}
-      <div className="max-w-7xl mx-auto px-4 mb-8">
-        <h2 className="text-3xl font-bold text-text-primary mb-2">پیشنهاد ویژه</h2>
-        <p className="text-text-secondary/80">فیلم‌های برگزیده این هفته</p>
+      <div className="max-w-7xl mx-auto px-4 mb-6 md:mb-8">
+        <h2 className="text-2xl md:text-3xl font-bold text-text-primary mb-2">پیشنهاد ویژه</h2>
+        <p className="text-sm md:text-base text-text-secondary/80">فیلم‌های برگزیده این هفته</p>
       </div>
 
       {/* Carousel Container */}
@@ -82,7 +83,7 @@ const FeaturedCarousel = () => {
 
         {visibleMovies.map(({ movie, offset, isCentered }) => {
           const actualIndex = movies.findIndex((m) => m.id === movie.id);
-          
+
           return (
             <div
               key={`${movie.id}-${offset}`}
@@ -90,12 +91,12 @@ const FeaturedCarousel = () => {
               style={{
                 transform: `translateX(${-offset * 280}px) scale(${isCentered ? 1 : 0.75})`,
                 zIndex: isCentered ? 10 : 6 - Math.abs(offset),
-                opacity: isCentered ? 1 : 0.35
+                opacity: isCentered ? 1 : 0.35,
               }}
             >
               {!isCentered ? (
-                <CarouselCard 
-                  movie={movie} 
+                <CarouselCard
+                  movie={movie}
                   onClick={() => handleCardClick(actualIndex)}
                 />
               ) : (
