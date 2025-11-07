@@ -32,8 +32,8 @@ export const designSystem = {
   },
   buttons: {
     primary: {
-      background: "#1a1a1a",
-      color: "#ffffff",
+      background: "#3b5998",
+      color: "#3b5998",
       "border-radius": "12px",
       "box-shadow":
         "5px 5px 10px -4px rgba(0,0,0,0.6), -5px -5px 10px -4px rgba(59,89,152,0.3)",
@@ -43,7 +43,7 @@ export const designSystem = {
       },
     },
     secondary: {
-      background: "#1a1a1a",
+      background: "#80a7c2",
       color: "#8b9dc3",
       "border-radius": "12px",
       "box-shadow":

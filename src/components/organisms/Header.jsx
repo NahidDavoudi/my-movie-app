@@ -3,7 +3,7 @@ import Link from 'next/link';
 import Button from '../atoms/Button';
 const Header = () => {
   return (
-    <header className=" dir-rtl flex justify-between items-center p-4 bg-primary-light">
+    <header className=" dir-rtl flex justify-between items-center p-4 bg-primary-light/60 backdrop-blur-sm rounded-lg m-4">
       <Link href="/">
         <div className=" dir-rtl text-2xl font-bold">Movie App</div>
       </Link>
@@ -15,8 +15,8 @@ const Header = () => {
         </ul>
       </nav>
       <div className="flex gap-4">
-        <Button variant="primary">Login</Button>
-        <Button variant="#1a1a1a">Register</Button>
+        <Button color="primary">Login</Button>
+        <Button color="primary-light">Register</Button>
       </div>
     </header>
   );

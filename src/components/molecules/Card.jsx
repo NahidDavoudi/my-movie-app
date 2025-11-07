@@ -1,15 +1,13 @@
 import React from 'react';
-import mockMovies from '@/data/mockMovies';
-const Card = ({ children, className = '' }) => {
+const Card = ({ children, className = '', title, rating, year }) => {
   return (
-<div className="flex flex-col items-center justify-center">
-    <div className={`bg-image rounded-lg shadow-card p-4   ${className}`}>
-      {children}
+    <div className="flex flex-col items-center gap-2 min-w-[180px]">
+      {/* تصویر و محتوا */}
+      <div className={`bg-surface rounded-lg shadow-card overflow-hidden ${className}`}>
+        {children}
+      </div>
+      {/* اطلاعات فیلم */}
     </div>
-    <div className="flex flex-col items-center justify-center">
-        <h3 className="text-sm font-medium text-white/80">{title}</h3>
-    </div>
-</div> 
   );
 };
 

@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #000000;
+  --foreground: #ffffff;
 
   /* Design System - Colors */
   --ds-color-primary: #3b5998;
@@ -46,8 +46,7 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: var(--ds-font-family);
 
   /* Theme tokens from DS (Tailwind v4) */
   --color-primary: var(--ds-color-primary);
@@ -70,15 +69,14 @@
   --shadow-card: var(--shadow-card);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+/* Dark theme is default for this movie app */
+html {
+  background: var(--ds-color-background);
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--ds-color-background);
+  color: var(--ds-color-text-primary);
+  font-family: var(--ds-font-family);
+  min-height: 100vh;
 }

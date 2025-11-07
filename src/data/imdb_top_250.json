@@ -1,0 +1,1434 @@
+{
+  "updated_at": "2025-11-06 17:52:09",
+  "total_movies": 25,
+  "total_shows": 25,
+  "movies": [
+    {
+      "id": "tt0111161",
+      "rank": 1,
+      "title": "The Shawshank Redemption",
+      "year": "",
+      "rating": 9.3,
+      "votes": "3.1M",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@.jpg",
+      "type": "movie",
+      "url": "https://www.imdb.com/title/tt0111161/?ref_=chttp_t_1",
+      "genres": [
+        "Epic",
+        "Period Drama",
+        "Prison Drama",
+        "Drama"
+      ],
+      "director": "Frank Darabont",
+      "cast": [
+        "Tim Robbins",
+        "Morgan Freeman",
+        "Bob Gunton",
+        "William Sadler",
+        "Clancy Brown"
+      ],
+      "plot": "A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple compassion.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0068646",
+      "rank": 2,
+      "title": "The Godfather",
+      "year": "",
+      "rating": 9.2,
+      "votes": "2.2M",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@.jpg",
+      "type": "movie",
+      "url": "https://www.imdb.com/title/tt0068646/?ref_=chttp_t_2",
+      "genres": [
+        "Epic",
+        "Gangster",
+        "Tragedy",
+        "Crime",
+        "Drama"
+      ],
+      "director": "Francis Ford Coppola",
+      "cast": [
+        "Marlon Brando",
+        "Al Pacino",
+        "James Caan",
+        "Richard S. Castellano",
+        "Robert Duvall"
+      ],
+      "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0468569",
+      "rank": 3,
+      "title": "The Dark Knight",
+      "year": "",
+      "rating": 9.1,
+      "votes": "3.1M",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@.jpg",
+      "type": "movie",
+      "url": "https://www.imdb.com/title/tt0468569/?ref_=chttp_t_3",
+      "genres": [
+        "Action Epic",
+        "Epic",
+        "Psychological Drama",
+        "Psychological Thriller",
+        "Superhero"
+      ],
+      "director": "Christopher Nolan",
+      "cast": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart",
+        "Michael Caine",
+        "Maggie Gyllenhaal"
+      ],
+      "plot": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@.jpg"
+    },
+    {
+      "id": "tt0071562",
+      "rank": 4,
+      "title": "The Godfather Part II",
+      "year": "",
+      "rating": 9.0,
+      "votes": "1.5M",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDIxMzBlZDktZjMxNy00ZGI4LTgxNDEtYWRlNzRjMjJmOGQ1XkEyXkFqcGc@.jpg",
+      "type": "movie",
+      "url": "https://www.imdb.com/title/tt0071562/?ref_=chttp_t_4",
+      "genres": [
+        "Epic",
+        "Gangster",
+        "Tragedy",
+        "Crime",
+        "Drama"
+      ],
+      "director": "Francis Ford Coppola",
+      "cast": [
+        "Al Pacino",
+        "Robert Duvall",
+        "Diane Keaton",
+        "Robert De Niro",
+        "John Cazale"
+      ],
+      "plot": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BMDIxMzBlZDktZjMxNy00ZGI4LTgxNDEtYWRlNzRjMjJmOGQ1XkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0050083",
+      "rank": 5,
+      "title": "12 Angry Men",
+      "year": "",
+      "rating": 9.0,
+      "votes": "954K",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjE4NzdmOTYtYjc5Yi00YzBiLWEzNDEtNTgxZGQ2MWVkN2NiXkEyXkFqcGc@.jpg",
+      "type": "movie",
+      "url": "https://www.imdb.com/title/tt0050083/?ref_=chttp_t_5",
+      "genres": [
+        "Legal Drama",
+        "Psychological Drama",
+        "Crime",
+        "Drama"
+      ],
+      "director": "Sidney Lumet",
+      "cast": [
+        "Martin Balsam",
+        "John Fiedler",
+        "Lee J. Cobb",
+        "E.G. Marshall",
+        "Jack Klugman"
+      ],
+      "plot": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BYjE4NzdmOTYtYjc5Yi00YzBiLWEzNDEtNTgxZGQ2MWVkN2NiXkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0167260",
+      "rank": 6,
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": "",
+      "rating": 9.0,
+      "votes": "2.1M",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@.jpg",
+      "type": "movie",
+      "url": "https://www.imdb.com/title/tt0167260/?ref_=chttp_t_6",
+      "genres": [
+        "Action Epic",
+        "Adventure Epic",
+        "Epic",
+        "Fantasy Epic",
+        "Mountain Adventure"
+      ],
+      "director": "Peter Jackson",
+      "cast": [
+        "Noel Appleby",
+        "Ali Astin",
+        "Sean Astin",
+        "David Aston",
+        "John Bach"
+      ],
+      "plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0108052",
+      "rank": 7,
+      "title": "Schindler's List",
+      "year": "",
+      "rating": 9.0,
+      "votes": "1.6M",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@.jpg",
+      "type": "movie",
+      "url": "https://www.imdb.com/title/tt0108052/?ref_=chttp_t_7",
+      "genres": [
+        "Docudrama",
+        "Epic",
+        "Historical Epic",
+        "Period Drama",
+        "Prison Drama"
+      ],
+      "director": "Steven Spielberg",
+      "cast": [
+        "Liam Neeson",
+        "Ben Kingsley",
+        "Ralph Fiennes",
+        "Caroline Goodall",
+        "Jonathan Sagall"
+      ],
+      "plot": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0120737",
+      "rank": 8,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": "",
+      "rating": 8.9,
+      "votes": "2.2M",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@.jpg",
+      "type": "movie",
+      "url": "https://www.imdb.com/title/tt0120737/?ref_=chttp_t_8",
+      "genres": [
+        "Action Epic",
+        "Adventure Epic",
+        "Dark Fantasy",
+        "Epic",
+        "Fantasy Epic"
+      ],
+      "director": "Peter Jackson",
+      "cast": [
+        "Alan Howard",
+        "Noel Appleby",
+        "Sean Astin",
+        "Sala Baker",
+        "Sean Bean"
+      ],
+      "plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0110912",
+      "rank": 9,
+      "title": "Pulp Fiction",
+      "year": "",
+      "rating": 8.8,
+      "votes": "2.4M",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@.jpg",
+      "type": "movie",
+      "url": "https://www.imdb.com/title/tt0110912/?ref_=chttp_t_9",
+      "genres": [
+        "Dark Comedy",
+        "Drug Crime",
+        "Gangster",
+        "Crime",
+        "Drama"
+      ],
+      "director": "Quentin Tarantino",
+      "cast": [
+        "Tim Roth",
+        "Amanda Plummer",
+        "Laura Lovelace",
+        "John Travolta",
+        "Samuel L. Jackson"
+      ],
+      "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0060196",
+      "rank": 10,
+      "title": "The Good, the Bad and the Ugly",
+      "year": "",
+      "rating": 8.8,
+      "votes": "872K",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMWM5ZjQxM2YtNDlmYi00ZDNhLWI4MWUtN2VkYjBlMTY1ZTkwXkEyXkFqcGc@.jpg",
+      "type": "movie",
+      "url": "https://www.imdb.com/title/tt0060196/?ref_=chttp_t_10",
+      "genres": [
+        "Action Epic",
+        "Adventure Epic",
+        "Dark Comedy",
+        "Desert Adventure",
+        "Epic"
+      ],
+      "director": "Sergio Leone",
+      "cast": [
+        "Eli Wallach",
+        "Clint Eastwood",
+        "Lee Van Cleef",
+        "Aldo Giuffrè",
+        "Luigi Pistilli"
+      ],
+      "plot": "A bounty-hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BMWM5ZjQxM2YtNDlmYi00ZDNhLWI4MWUtN2VkYjBlMTY1ZTkwXkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0167261",
+      "rank": 11,
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": "",
+      "rating": 8.8,
+      "votes": "1.9M",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMGQxMDdiOWUtYjc1Ni00YzM1LWE2NjMtZTg3Y2JkMjEzMTJjXkEyXkFqcGc@.jpg",
+      "type": "movie",
+      "url": "https://www.imdb.com/title/tt0167261/?ref_=chttp_t_11",
+      "genres": [
+        "Action Epic",
+        "Adventure Epic",
+        "Dark Fantasy",
+        "Epic",
+        "Fantasy Epic"
+      ],
+      "director": "Peter Jackson",
+      "cast": [
+        "Bruce Allpress",
+        "Sean Astin",
+        "John Bach",
+        "Sala Baker",
+        "Cate Blanchett"
+      ],
+      "plot": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BMGQxMDdiOWUtYjc1Ni00YzM1LWE2NjMtZTg3Y2JkMjEzMTJjXkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0109830",
+      "rank": 12,
+      "title": "Forrest Gump",
+      "year": "",
+      "rating": 8.8,
+      "votes": "2.4M",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@.jpg",
+      "type": "movie",
+      "url": "https://www.imdb.com/title/tt0109830/?ref_=chttp_t_12",
+      "genres": [
+        "Epic",
+        "Period Drama",
+        "Drama",
+        "Romance"
+      ],
+      "director": "Robert Zemeckis",
+      "cast": [
+        "Tom Hanks",
+        "Rebecca Williams",
+        "Sally Field",
+        "Michael Conner Humphreys",
+        "Harold G. Herthum"
+      ],
+      "plot": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0137523",
+      "rank": 13,
+      "title": "Fight Club",
+      "year": "",
+      "rating": 8.8,
+      "votes": "2.5M",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@.jpg",
+      "type": "movie",
+      "url": "https://www.imdb.com/title/tt0137523/?ref_=chttp_t_13",
+      "genres": [
+        "Dark Comedy",
+        "Psychological Drama",
+        "Psychological Thriller",
+        "Workplace Drama",
+        "Crime"
+      ],
+      "director": "David Fincher",
+      "cast": [
+        "Edward Norton",
+        "Brad Pitt",
+        "Meat Loaf",
+        "Zach Grenier",
+        "Richmond Arquette"
+      ],
+      "plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt1375666",
+      "rank": 14,
+      "title": "Inception",
+      "year": "",
+      "rating": 8.8,
+      "votes": "2.7M",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@.jpg",
+      "type": "movie",
+      "url": "https://www.imdb.com/title/tt1375666/?ref_=chttp_t_14",
+      "genres": [
+        "Action Epic",
+        "Adventure Epic",
+        "Epic",
+        "Psychological Thriller",
+        "Sci-Fi Epic"
+      ],
+      "director": "Christopher Nolan",
+      "cast": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Elliot Page",
+        "Tom Hardy",
+        "Ken Watanabe"
+      ],
+      "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@.jpg"
+    },
+    {
+      "id": "tt0080684",
+      "rank": 15,
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": "",
+      "rating": 8.7,
+      "votes": "1.5M",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNGFlNDktZmJkNC00MDdhLTg0MTEtZjZiYWI3MGE5NWIwXkEyXkFqcGc@.jpg",
+      "type": "movie",
+      "url": "https://www.imdb.com/title/tt0080684/?ref_=chttp_t_15",
+      "genres": [
+        "Action Epic",
+        "Adventure Epic",
+        "Dark Fantasy",
+        "Dystopian Sci-Fi",
+        "Epic"
+      ],
+      "director": "Irvin Kershner",
+      "cast": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher",
+        "Billy Dee Williams",
+        "Anthony Daniels"
+      ],
+      "plot": "After the Empire overpowers the Rebel Alliance, Luke Skywalker begins training with Jedi Master Yoda, while Darth Vader and bounty hunter Boba Fett pursue his friends across the galaxy.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BMTkxNGFlNDktZmJkNC00MDdhLTg0MTEtZjZiYWI3MGE5NWIwXkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0133093",
+      "rank": 16,
+      "title": "The Matrix",
+      "year": "",
+      "rating": 8.7,
+      "votes": "2.2M",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@.jpg",
+      "type": "movie",
+      "url": "https://www.imdb.com/title/tt0133093/?ref_=chttp_t_16",
+      "genres": [
+        "Action Epic",
+        "Artificial Intelligence",
+        "Cyberpunk",
+        "Dystopian Sci-Fi",
+        "Gun Fu"
+      ],
+      "director": "Lana Wachowski",
+      "cast": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss",
+        "Hugo Weaving",
+        "Gloria Foster"
+      ],
+      "plot": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0099685",
+      "rank": 17,
+      "title": "Goodfellas",
+      "year": "",
+      "rating": 8.7,
+      "votes": "1.4M",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BN2E5NzI2ZGMtY2VjNi00YTRjLWI1MDUtZGY5OWU1MWJjZjRjXkEyXkFqcGc@.jpg",
+      "type": "movie",
+      "url": "https://www.imdb.com/title/tt0099685/?ref_=chttp_t_17",
+      "genres": [
+        "Docudrama",
+        "Gangster",
+        "True Crime",
+        "Biography",
+        "Crime"
+      ],
+      "director": "Martin Scorsese",
+      "cast": [
+        "Robert De Niro",
+        "Ray Liotta",
+        "Joe Pesci",
+        "Lorraine Bracco",
+        "Paul Sorvino"
+      ],
+      "plot": "The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BN2E5NzI2ZGMtY2VjNi00YTRjLWI1MDUtZGY5OWU1MWJjZjRjXkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0816692",
+      "rank": 18,
+      "title": "Interstellar",
+      "year": "",
+      "rating": 8.7,
+      "votes": "2.4M",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@.jpg",
+      "type": "movie",
+      "url": "https://www.imdb.com/title/tt0816692/?ref_=chttp_t_18",
+      "genres": [
+        "Adventure Epic",
+        "Epic",
+        "Psychological Drama",
+        "Quest",
+        "Sci-Fi Epic"
+      ],
+      "director": "Christopher Nolan",
+      "cast": [
+        "Ellen Burstyn",
+        "Matthew McConaughey",
+        "Mackenzie Foy",
+        "John Lithgow",
+        "Timothée Chalamet"
+      ],
+      "plot": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0073486",
+      "rank": 19,
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": "",
+      "rating": 8.6,
+      "votes": "1.1M",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjBkMjgzMzYtNzRiMS00NDc3LWE4YTUtZjYxYjZhNjNhYzhhXkEyXkFqcGc@.jpg",
+      "type": "movie",
+      "url": "https://www.imdb.com/title/tt0073486/?ref_=chttp_t_19",
+      "genres": [
+        "Dark Comedy",
+        "Medical Drama",
+        "Psychological Drama",
+        "Drama"
+      ],
+      "director": "Milos Forman",
+      "cast": [
+        "Michael Berryman",
+        "Peter Brocco",
+        "Dean R. Brooks",
+        "Alonzo Brown",
+        "Scatman Crothers"
+      ],
+      "plot": "A rebellious convict is sent to a psychiatric hospital for evaluation in 1963 Oregon, and encourages his docile companions to take more control of their lives and defy the tyrannical head nurse.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BYjBkMjgzMzYtNzRiMS00NDc3LWE4YTUtZjYxYjZhNjNhYzhhXkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0114369",
+      "rank": 20,
+      "title": "Se7en",
+      "year": "",
+      "rating": 8.6,
+      "votes": "2M",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BY2IzNzMxZjctZjUxZi00YzAxLTk3ZjMtODFjODdhMDU5NDM1XkEyXkFqcGc@.jpg",
+      "type": "movie",
+      "url": "https://www.imdb.com/title/tt0114369/?ref_=chttp_t_20",
+      "genres": [
+        "Cop Drama",
+        "Hard-boiled Detective",
+        "Police Procedural",
+        "Psychological Drama",
+        "Psychological Thriller"
+      ],
+      "director": "David Fincher",
+      "cast": [
+        "Morgan Freeman",
+        "Andrew Kevin Walker",
+        "Daniel Zacapa",
+        "Brad Pitt",
+        "Gwyneth Paltrow"
+      ],
+      "plot": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BY2IzNzMxZjctZjUxZi00YzAxLTk3ZjMtODFjODdhMDU5NDM1XkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0038650",
+      "rank": 21,
+      "title": "It's a Wonderful Life",
+      "year": "",
+      "rating": 8.6,
+      "votes": "537K",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDM4OWFhYjEtNTE5Yy00NjcyLTg5N2UtZDQwNDZlYjlmNDU5XkEyXkFqcGc@.jpg",
+      "type": "movie",
+      "url": "https://www.imdb.com/title/tt0038650/?ref_=chttp_t_21",
+      "genres": [
+        "Feel-Good Romance",
+        "Holiday Family",
+        "Holiday Romance",
+        "Psychological Drama",
+        "Supernatural Fantasy"
+      ],
+      "director": "Frank Capra",
+      "cast": [
+        "James Stewart",
+        "Donna Reed",
+        "Lionel Barrymore",
+        "Thomas Mitchell",
+        "Henry Travers"
+      ],
+      "plot": "An angel is sent from Heaven to help a desperately frustrated businessman see the value of his own life.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BMDM4OWFhYjEtNTE5Yy00NjcyLTg5N2UtZDQwNDZlYjlmNDU5XkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0102926",
+      "rank": 22,
+      "title": "The Silence of the Lambs",
+      "year": "",
+      "rating": 8.6,
+      "votes": "1.7M",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@.jpg",
+      "type": "movie",
+      "url": "https://www.imdb.com/title/tt0102926/?ref_=chttp_t_22",
+      "genres": [
+        "Police Procedural",
+        "Psychological Drama",
+        "Psychological Horror",
+        "Psychological Thriller",
+        "Serial Killer"
+      ],
+      "director": "Jonathan Demme",
+      "cast": [
+        "Jodie Foster",
+        "Anthony Hopkins",
+        "Scott Glenn",
+        "Ted Levine",
+        "Anthony Heald"
+      ],
+      "plot": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0047478",
+      "rank": 23,
+      "title": "Seven Samurai",
+      "year": "",
+      "rating": 8.6,
+      "votes": "392K",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjliMWExOTMtZDQ3ZS00NWU3LWIyN2EtMjllNzk3ZTNlYzg4XkEyXkFqcGc@.jpg",
+      "type": "movie",
+      "url": "https://www.imdb.com/title/tt0047478/?ref_=chttp_t_23",
+      "genres": [
+        "Japanese",
+        "Action Epic",
+        "Epic",
+        "Period Drama",
+        "Samurai"
+      ],
+      "director": "Akira Kurosawa",
+      "cast": [
+        "Toshirô Mifune",
+        "Takashi Shimura",
+        "Keiko Tsushima",
+        "Yukiko Shimazaki",
+        "Kamatari Fujiwara"
+      ],
+      "plot": "Farmers from a village exploited by bandits hire a veteran samurai for protection, and he gathers six other samurai to join him.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BZjliMWExOTMtZDQ3ZS00NWU3LWIyN2EtMjllNzk3ZTNlYzg4XkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0120815",
+      "rank": 24,
+      "title": "Saving Private Ryan",
+      "year": "",
+      "rating": 8.6,
+      "votes": "1.6M",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGZhZGQ1ZWUtZTZjYS00MDJhLWFkYjctN2ZlYjE5NWYwZDM2XkEyXkFqcGc@.jpg",
+      "type": "movie",
+      "url": "https://www.imdb.com/title/tt0120815/?ref_=chttp_t_24",
+      "genres": [
+        "Epic",
+        "Period Drama",
+        "Psychological Drama",
+        "Tragedy",
+        "War Epic"
+      ],
+      "director": "Steven Spielberg",
+      "cast": [
+        "Tom Hanks",
+        "Tom Sizemore",
+        "Edward Burns",
+        "Barry Pepper",
+        "Adam Goldberg"
+      ],
+      "plot": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose comrades have been killed in action.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BZGZhZGQ1ZWUtZTZjYS00MDJhLWFkYjctN2ZlYjE5NWYwZDM2XkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0120689",
+      "rank": 25,
+      "title": "The Green Mile",
+      "year": "",
+      "rating": 8.6,
+      "votes": "1.5M",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_QL75_UX90_CR0,0,90,133_.jpg",
+      "type": "movie",
+      "url": "https://www.imdb.com/title/tt0120689/?ref_=chttp_t_25",
+      "genres": [
+        "Period Drama",
+        "Prison Drama",
+        "Supernatural Fantasy",
+        "Tragedy",
+        "Crime"
+      ],
+      "director": "Frank Darabont",
+      "cast": [
+        "Tom Hanks",
+        "David Morse",
+        "Bonnie Hunt",
+        "Michael Clarke Duncan",
+        "James Cromwell"
+      ],
+      "plot": "A death row guard learns that a gentle giant in his charge possesses a mysterious gift.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_QL75_UX190_CR0,0,190,281_.jpg"
+    }
+  ],
+  "shows": [
+    {
+      "id": "tt0903747",
+      "rank": 1,
+      "title": "Breaking Bad",
+      "year": "",
+      "rating": 9.5,
+      "votes": "2.4M",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@.jpg",
+      "type": "show",
+      "url": "https://www.imdb.com/title/tt0903747/?ref_=chttvtp_t_1",
+      "genres": [
+        "Dark Comedy",
+        "Drug Crime",
+        "Epic",
+        "Psychological Drama",
+        "Psychological Thriller"
+      ],
+      "director": "Vince Gilligan",
+      "cast": [
+        "Bryan Cranston",
+        "Anna Gunn",
+        "Aaron Paul",
+        "Dean Norris",
+        "Betsy Brandt"
+      ],
+      "plot": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt5491994",
+      "rank": 2,
+      "title": "Planet Earth II",
+      "year": "",
+      "rating": 9.4,
+      "votes": "170K",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzY4NDBkMWYtYzdkYy00YzBjLWJmODctMWM4YjYzZTdjNWE5XkEyXkFqcGc@.jpg",
+      "type": "show",
+      "url": "https://www.imdb.com/title/tt5491994/?ref_=chttvtp_t_2",
+      "genres": [
+        "Docuseries",
+        "Nature Documentary",
+        "Documentary"
+      ],
+      "director": "David Attenborough",
+      "cast": [
+        "David Attenborough",
+        "Chadden Hunter",
+        "Gordon Buchanan",
+        "Toby Nowlan",
+        "Barrie Britton"
+      ],
+      "plot": "David Attenborough returns with a new wildlife documentary that shows life in a variety of habitats.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BMzY4NDBkMWYtYzdkYy00YzBjLWJmODctMWM4YjYzZTdjNWE5XkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0795176",
+      "rank": 3,
+      "title": "Planet Earth",
+      "year": "",
+      "rating": 9.4,
+      "votes": "230K",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BY2NjNDUzOTgtMDFmNC00ZGQ4LWE5MDctMzczNGVlOGU1N2MyXkEyXkFqcGc@.jpg",
+      "type": "show",
+      "url": "https://www.imdb.com/title/tt0795176/?ref_=chttvtp_t_3",
+      "genres": [
+        "Docuseries",
+        "Nature Documentary",
+        "Documentary",
+        "Family"
+      ],
+      "director": "Sigourney Weaver",
+      "cast": [
+        "Sigourney Weaver",
+        "David Attenborough",
+        "Nikolay Drozdov",
+        "Thomas Anguti Johnston",
+        "Sanae Ueda"
+      ],
+      "plot": "A documentary series on the wildlife found on Earth. Each episode covers a different habitat: deserts, mountains, deep oceans, shallow seas, forests, caves, polar regions, fresh water, plains and jungles. Narrated by David Attenborough.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BY2NjNDUzOTgtMDFmNC00ZGQ4LWE5MDctMzczNGVlOGU1N2MyXkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0185906",
+      "rank": 4,
+      "title": "Band of Brothers",
+      "year": "",
+      "rating": 9.4,
+      "votes": "576K",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3NTdmOTEtZTRmMi00NTg5LWI5NmUtYTNiOTc0ZmNkODU0XkEyXkFqcGc@.jpg",
+      "type": "show",
+      "url": "https://www.imdb.com/title/tt0185906/?ref_=chttvtp_t_4",
+      "genres": [
+        "Historical Epic",
+        "Tragedy",
+        "War Epic",
+        "Action",
+        "Drama"
+      ],
+      "director": "Scott Grimes",
+      "cast": [
+        "Scott Grimes",
+        "Damian Lewis",
+        "Ron Livingston",
+        "Shane Taylor",
+        "Donnie Wahlberg"
+      ],
+      "plot": "The story of Easy Company of the U.S. Army 101st Airborne Division and their mission in World War II Europe, from Operation Overlord to V-J Day.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BMTQ3NTdmOTEtZTRmMi00NTg5LWI5NmUtYTNiOTc0ZmNkODU0XkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt7366338",
+      "rank": 5,
+      "title": "Chernobyl",
+      "year": "",
+      "rating": 9.3,
+      "votes": "985K",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzU0OTI4YTQtNGQ1ZS00ZjA4LTg3MTMtZjkyZWNjN2RiZDJmXkEyXkFqcGc@.jpg",
+      "type": "show",
+      "url": "https://www.imdb.com/title/tt7366338/?ref_=chttvtp_t_5",
+      "genres": [
+        "Disaster",
+        "Docudrama",
+        "Epic",
+        "Historical Epic",
+        "Period Drama"
+      ],
+      "director": "Craig Mazin",
+      "cast": [
+        "Jessie Buckley",
+        "Jared Harris",
+        "Stellan Skarsgård",
+        "Adam Nagaitis",
+        "Emily Watson"
+      ],
+      "plot": "In April 1986, the city of Chernobyl in the Soviet Union suffers one of the worst nuclear disasters in the history of mankind. Consequently, many heroes put their lives on the line in the following days, weeks and months.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BNzU0OTI4YTQtNGQ1ZS00ZjA4LTg3MTMtZjkyZWNjN2RiZDJmXkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0306414",
+      "rank": 6,
+      "title": "The Wire",
+      "year": "",
+      "rating": 9.3,
+      "votes": "416K",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZWYyNmRhYjktNjBhNC00M2NhLWEzYmMtZDYwNmIyZTRiZWMzXkEyXkFqcGc@.jpg",
+      "type": "show",
+      "url": "https://www.imdb.com/title/tt0306414/?ref_=chttvtp_t_6",
+      "genres": [
+        "Cop Drama",
+        "Drug Crime",
+        "Epic",
+        "Police Procedural",
+        "Crime"
+      ],
+      "director": "David Simon",
+      "cast": [
+        "Dominic West",
+        "John Doman",
+        "Deirdre Lovejoy",
+        "Wendell Pierce",
+        "Lance Reddick"
+      ],
+      "plot": "The Baltimore drug scene, as seen through the eyes of drug dealers and law enforcement.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BZWYyNmRhYjktNjBhNC00M2NhLWEzYmMtZDYwNmIyZTRiZWMzXkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0417299",
+      "rank": 7,
+      "title": "Avatar: The Last Airbender",
+      "year": "",
+      "rating": 9.3,
+      "votes": "420K",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDMwMThjYWYtY2Q2OS00OGM2LTlkODQtNDJlZTZmMjAyYmFhXkEyXkFqcGc@.jpg",
+      "type": "show",
+      "url": "https://www.imdb.com/title/tt0417299/?ref_=chttvtp_t_7",
+      "genres": [
+        "Adventure Epic",
+        "Epic",
+        "Fantasy Epic",
+        "Globetrotting Adventure",
+        "Hand-Drawn Animation"
+      ],
+      "director": "Michael Dante DiMartino",
+      "cast": [
+        "Dee Bradley Baker",
+        "Zach Tyler Eisen",
+        "Mae Whitman",
+        "Jack De Sena",
+        "Dante Basco"
+      ],
+      "plot": "In a war-torn world of elemental powers, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BMDMwMThjYWYtY2Q2OS00OGM2LTlkODQtNDJlZTZmMjAyYmFhXkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0141842",
+      "rank": 8,
+      "title": "The Sopranos",
+      "year": "",
+      "rating": 9.2,
+      "votes": "550K",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjRmMTNiMTQtMDg1ZS00MGM1LWE1MGUtYjEzMGFjNWUzOWRkXkEyXkFqcGc@.jpg",
+      "type": "show",
+      "url": "https://www.imdb.com/title/tt0141842/?ref_=chttvtp_t_8",
+      "genres": [
+        "Epic",
+        "Gangster",
+        "Psychological Drama",
+        "Crime",
+        "Drama"
+      ],
+      "director": "David Chase",
+      "cast": [
+        "James Gandolfini",
+        "Lorraine Bracco",
+        "Edie Falco",
+        "Michael Imperioli",
+        "Dominic Chianese"
+      ],
+      "plot": "New Jersey mob boss Tony Soprano deals with personal and professional issues in his home and business life that affect his mental state, leading him to seek professional psychiatric counseling.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BMjRmMTNiMTQtMDg1ZS00MGM1LWE1MGUtYjEzMGFjNWUzOWRkXkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt6769208",
+      "rank": 9,
+      "title": "Blue Planet II",
+      "year": "",
+      "rating": 9.3,
+      "votes": "54K",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNmUwYThjM2UtNTg1Yy00MzRlLThhMmYtNjlmOWU0ZmQxZDA3XkEyXkFqcGc@.jpg",
+      "type": "show",
+      "url": "https://www.imdb.com/title/tt6769208/?ref_=chttvtp_t_9",
+      "genres": [
+        "Nature Documentary",
+        "Documentary"
+      ],
+      "director": "David Attenborough",
+      "cast": [
+        "David Attenborough",
+        "Peter Drost",
+        "Roger Munns",
+        "Roger Horrocks"
+      ],
+      "plot": "David Attenborough returns to the world's oceans in this sequel to the acclaimed documentary filming rare and unusual creatures of the deep, as well as documenting the problems our oceans face.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BNmUwYThjM2UtNTg1Yy00MzRlLThhMmYtNjlmOWU0ZmQxZDA3XkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt2395695",
+      "rank": 10,
+      "title": "Cosmos: A Spacetime Odyssey",
+      "year": "",
+      "rating": 9.2,
+      "votes": "136K",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTRlMzk0NzctNTI3Ni00N2E2LWJiNGMtMDdlNjk1YWNmMzkyXkEyXkFqcGc@.jpg",
+      "type": "show",
+      "url": "https://www.imdb.com/title/tt2395695/?ref_=chttvtp_t_10",
+      "genres": [
+        "Docuseries",
+        "Science & Technology Documentary",
+        "Documentary"
+      ],
+      "director": "Neil deGrasse Tyson",
+      "cast": [
+        "Neil deGrasse Tyson",
+        "Carl Sagan",
+        "Christopher Emerson",
+        "Keythe Farley",
+        "Piotr Michael"
+      ],
+      "plot": "An exploration of our discovery of the laws of nature and coordinates in space and time.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BYTRlMzk0NzctNTI3Ni00N2E2LWJiNGMtMDdlNjk1YWNmMzkyXkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0081846",
+      "rank": 11,
+      "title": "Cosmos",
+      "year": "",
+      "rating": 9.3,
+      "votes": "49K",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTA5MWFhMzAtOWU1OS00Yjk4LTlkNGItNGI3N2VkNzcyNGU2XkEyXkFqcGc@.jpg",
+      "type": "show",
+      "url": "https://www.imdb.com/title/tt0081846/?ref_=chttvtp_t_11",
+      "genres": [
+        "Science & Technology Documentary",
+        "Documentary"
+      ],
+      "director": "Ann Druyan",
+      "cast": [
+        "Carl Sagan",
+        "Jaromír Hanzlík",
+        "Jonathan Fahn",
+        "Jean Charney",
+        "Alan Belod"
+      ],
+      "plot": "Astronomer Carl Sagan leads us on an engaging guided tour of the various elements and cosmological theories of the universe.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BOTA5MWFhMzAtOWU1OS00Yjk4LTlkNGItNGI3N2VkNzcyNGU2XkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt9253866",
+      "rank": 12,
+      "title": "Our Planet",
+      "year": "",
+      "rating": 9.2,
+      "votes": "59K",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDE1NzlkNWMtNzFiMC00ZTgxLTgyMmItOTU5OGI2NWQ4MDMxXkEyXkFqcGc@.jpg",
+      "type": "show",
+      "url": "https://www.imdb.com/title/tt9253866/?ref_=chttvtp_t_12",
+      "genres": [
+        "Docuseries",
+        "Nature Documentary",
+        "Documentary"
+      ],
+      "director": "David Attenborough",
+      "cast": [
+        "David Attenborough"
+      ],
+      "plot": "Explores and unravels the mystery of how and why animals migrate, showing some of the most dramatic and compelling stories in the natural world through spectacular and innovative cinematography.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BZDE1NzlkNWMtNzFiMC00ZTgxLTgyMmItOTU5OGI2NWQ4MDMxXkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0944947",
+      "rank": 13,
+      "title": "Game of Thrones",
+      "year": "",
+      "rating": 9.2,
+      "votes": "2.5M",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@.jpg",
+      "type": "show",
+      "url": "https://www.imdb.com/title/tt0944947/?ref_=chttvtp_t_13",
+      "genres": [
+        "Action Epic",
+        "Adventure Epic",
+        "Dark Fantasy",
+        "Epic",
+        "Fantasy Epic"
+      ],
+      "director": "David Benioff",
+      "cast": [
+        "Peter Dinklage",
+        "Lena Headey",
+        "Kit Harington",
+        "Emilia Clarke",
+        "Sophie Turner"
+      ],
+      "plot": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt7678620",
+      "rank": 14,
+      "title": "Bluey",
+      "year": "",
+      "rating": 9.3,
+      "votes": "42K",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWU1YmQzMjEtMDNjOS00MGIyLWExY2ItZDAzNmU5NWViMGZmXkEyXkFqcGc@.jpg",
+      "type": "show",
+      "url": "https://www.imdb.com/title/tt7678620/?ref_=chttvtp_t_14",
+      "genres": [
+        "Animal Adventure",
+        "Hand-Drawn Animation",
+        "Animation",
+        "Family"
+      ],
+      "director": "Joe Brumm",
+      "cast": [
+        "David McCormack",
+        "Melanie Zanetti",
+        "Brad Elliott",
+        "Dan Brumm",
+        "Myf Warhurst"
+      ],
+      "plot": "The slice-of-life adventures of an Australian Blue Heeler Cattle Dog puppy as she has fun with her family and friends in everyday situations.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BYWU1YmQzMjEtMDNjOS00MGIyLWExY2ItZDAzNmU5NWViMGZmXkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0071075",
+      "rank": 15,
+      "title": "The World at War",
+      "year": "",
+      "rating": 9.2,
+      "votes": "34K",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BM2I1OGUyNmYtZmNiOC00OGQ4LWFlNDEtYTM5ZTAxMDI4ZmMyXkEyXkFqcGc@.jpg",
+      "type": "show",
+      "url": "https://www.imdb.com/title/tt0071075/?ref_=chttvtp_t_15",
+      "genres": [
+        "Docuseries",
+        "History Documentary",
+        "Military Documentary",
+        "Documentary",
+        "History"
+      ],
+      "director": "Laurence Olivier",
+      "cast": [
+        "Laurence Olivier",
+        "Averell Harriman",
+        "Anthony Eden",
+        "Albert Speer",
+        "Franklin D. Roosevelt"
+      ],
+      "plot": "A groundbreaking 26-part documentary series narrated by the actor Laurence Olivier about the deadliest conflict in history, World War II.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BM2I1OGUyNmYtZmNiOC00OGQ4LWFlNDEtYTM5ZTAxMDI4ZmMyXkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt1355642",
+      "rank": 16,
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "year": "",
+      "rating": 9.1,
+      "votes": "233K",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzNiODA5NjYtYWExZS00OTc4LTg3N2ItYWYwYTUyYmM5MWViXkEyXkFqcGc@.jpg",
+      "type": "show",
+      "url": "https://www.imdb.com/title/tt1355642/?ref_=chttvtp_t_16",
+      "genres": [
+        "Japanese",
+        "Adult Animation",
+        "Anime",
+        "Epic",
+        "Fantasy Epic"
+      ],
+      "director": "Hiromu Arakawa",
+      "cast": [
+        "Kent Williams",
+        "Iemasa Kayumi",
+        "Vic Mignogna",
+        "Romi Park",
+        "Muriel Hofmann"
+      ],
+      "plot": "Two brothers search for a Philosopher's Stone after an attempt to revive their deceased mother goes awry and leaves them in damaged physical forms.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BMzNiODA5NjYtYWExZS00OTc4LTg3N2ItYWYwYTUyYmM5MWViXkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt1533395",
+      "rank": 17,
+      "title": "Life",
+      "year": "",
+      "rating": 9.1,
+      "votes": "47K",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDJjMzJiMTktMWZkZi00YWY0LWJjNGUtY2ZmNTFlOThhZTA4XkEyXkFqcGc@.jpg",
+      "type": "show",
+      "url": "https://www.imdb.com/title/tt1533395/?ref_=chttvtp_t_17",
+      "genres": [
+        "Docuseries",
+        "Nature Documentary",
+        "Documentary"
+      ],
+      "director": "Oprah Winfrey",
+      "cast": [
+        "Oprah Winfrey",
+        "David Attenborough",
+        "Doug Allan",
+        "Roger Munns",
+        "Michael Pitts"
+      ],
+      "plot": "A global view of the specialized strategies and extreme behavior that living things have developed in order to survive; what Charles Darwin termed \"the struggle for existence.\"",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BZDJjMzJiMTktMWZkZi00YWY0LWJjNGUtY2ZmNTFlOThhZTA4XkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt2560140",
+      "rank": 18,
+      "title": "Attack on Titan",
+      "year": "",
+      "rating": 9.1,
+      "votes": "658K",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjliODY5MzQtMmViZC00MTZmLWFhMWMtMjMwM2I3OGY1MTRiXkEyXkFqcGc@.jpg",
+      "type": "show",
+      "url": "https://www.imdb.com/title/tt2560140/?ref_=chttvtp_t_18",
+      "genres": [
+        "Japanese",
+        "Action Epic",
+        "Adult Animation",
+        "Anime",
+        "Body Horror"
+      ],
+      "director": "Jessie James Grelle",
+      "cast": [
+        "Jessie James Grelle",
+        "Bryce Papenbrook",
+        "Trina Nishimura",
+        "Yûki Kaji",
+        "Yui Ishikawa"
+      ],
+      "plot": "After his hometown is destroyed, young Eren Jaeger vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BZjliODY5MzQtMmViZC00MTZmLWFhMWMtMjMwM2I3OGY1MTRiXkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt8420184",
+      "rank": 19,
+      "title": "The Last Dance",
+      "year": "",
+      "rating": 9.0,
+      "votes": "173K",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTQyYmQ1N2UtYjFkNS00NzgyLTk5YTUtYjExMDdjOTA3MGU2XkEyXkFqcGc@.jpg",
+      "type": "show",
+      "url": "https://www.imdb.com/title/tt8420184/?ref_=chttvtp_t_19",
+      "genres": [
+        "Basketball",
+        "Docuseries",
+        "Sports Documentary",
+        "Biography",
+        "Documentary"
+      ],
+      "director": "Michael Jordan",
+      "cast": [
+        "Michael Jordan",
+        "Phil Jackson",
+        "Scottie Pippen",
+        "David Aldridge",
+        "Michael Wilbon"
+      ],
+      "plot": "Led by Michael Jordan, the 1990s Chicago Bulls establish themselves as one of the most notable dynasties in sports history.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BOTQyYmQ1N2UtYjFkNS00NzgyLTk5YTUtYjExMDdjOTA3MGU2XkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt2861424",
+      "rank": 20,
+      "title": "Rick and Morty",
+      "year": "",
+      "rating": 9.0,
+      "votes": "673K",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGQyZjk2MzMtMTcyNC00NGU3LTlmNjItNDExMWM4ZDFhYmQ2XkEyXkFqcGc@.jpg",
+      "type": "show",
+      "url": "https://www.imdb.com/title/tt2861424/?ref_=chttvtp_t_20",
+      "genres": [
+        "Adult Animation",
+        "Buddy Comedy",
+        "Dark Comedy",
+        "Parody",
+        "Psychological Drama"
+      ],
+      "director": "Justin Roiland",
+      "cast": [
+        "Chris Parnell",
+        "Spencer Grammer",
+        "Sarah Chalke",
+        "Justin Roiland",
+        "Kari Wahlgren"
+      ],
+      "plot": "The fractured domestic lives of a nihilistic mad scientist and his anxious grandson are further complicated by their inter-dimensional misadventures.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BZGQyZjk2MzMtMTcyNC00NGU3LTlmNjItNDExMWM4ZDFhYmQ2XkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0052520",
+      "rank": 21,
+      "title": "The Twilight Zone",
+      "year": "",
+      "rating": 9.0,
+      "votes": "104K",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjdmOTE3NjItY2JkMi00YjlhLWI0M2UtZjEwZTQ4ZDBkM2I0XkEyXkFqcGc@.jpg",
+      "type": "show",
+      "url": "https://www.imdb.com/title/tt0052520/?ref_=chttvtp_t_21",
+      "genres": [
+        "Body Horror",
+        "Dark Fantasy",
+        "Dystopian Sci-Fi",
+        "Psychological Drama",
+        "Psychological Horror"
+      ],
+      "director": "Rod Serling",
+      "cast": [
+        "Rod Serling",
+        "Robert McCord",
+        "Jay Overholts",
+        "James Turley",
+        "Vaughn Taylor"
+      ],
+      "plot": "Classic American Anthology series created by Rod Serling, featuring standalone stories of science fiction, fantasy, and horror, each with a twist ending or moral lesson.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BZjdmOTE3NjItY2JkMi00YjlhLWI0M2UtZjEwZTQ4ZDBkM2I0XkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt1877514",
+      "rank": 22,
+      "title": "The Vietnam War",
+      "year": "",
+      "rating": 9.1,
+      "votes": "33K",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTQ1ZWYzMmQtNWU5OC00YWY0LTkyMWMtMTU0NjYxMjJkMmNjXkEyXkFqcGc@.jpg",
+      "type": "show",
+      "url": "https://www.imdb.com/title/tt1877514/?ref_=chttvtp_t_22",
+      "genres": [
+        "Docuseries",
+        "History Documentary",
+        "Military Documentary",
+        "Documentary",
+        "History"
+      ],
+      "director": "Peter Coyote",
+      "cast": [
+        "Peter Coyote",
+        "Le Duan",
+        "Huy Duc",
+        "James Willbanks",
+        "Duong Van Mai Elliott"
+      ],
+      "plot": "A comprehensive history of the United States' involvement in the bitterly divisive armed conflict in Southeast Asia.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BYTQ1ZWYzMmQtNWU5OC00YWY0LTkyMWMtMTU0NjYxMjJkMmNjXkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt1475582",
+      "rank": 23,
+      "title": "Sherlock",
+      "year": "",
+      "rating": 9.0,
+      "votes": "1.1M",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTQzNGZjNDEtOTMwYi00MzFjLWE2ZTYtYzYxYzMwMjZkZDc5XkEyXkFqcGc@.jpg",
+      "type": "show",
+      "url": "https://www.imdb.com/title/tt1475582/?ref_=chttvtp_t_23",
+      "genres": [
+        "Police Procedural",
+        "Whodunnit",
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "director": "Mark Gatiss",
+      "cast": [
+        "Benedict Cumberbatch",
+        "Martin Freeman",
+        "Una Stubbs",
+        "Rupert Graves",
+        "Louise Brealey"
+      ],
+      "plot": "The quirky spin on Conan Doyle's iconic sleuth pitches him as a \"high-functioning sociopath\" in modern-day London. Assisting him in his investigations: Afghanistan War vet John Watson, who's introduced to Holmes by a mutual acquaintance.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BNTQzNGZjNDEtOTMwYi00MzFjLWE2ZTYtYzYxYzMwMjZkZDc5XkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt0103359",
+      "rank": 24,
+      "title": "Batman: The Animated Series",
+      "year": "",
+      "rating": 9.0,
+      "votes": "131K",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjgwZWUzMzUtYTFkNi00MzM0LWFkMWUtMDViMjMxNGIxNDUxXkEyXkFqcGc@.jpg",
+      "type": "show",
+      "url": "https://www.imdb.com/title/tt0103359/?ref_=chttvtp_t_24",
+      "genres": [
+        "Hand-Drawn Animation",
+        "Psychological Drama",
+        "Superhero",
+        "Urban Adventure",
+        "Action"
+      ],
+      "director": "Bill Finger",
+      "cast": [
+        "Kevin Conroy",
+        "Efrem Zimbalist Jr.",
+        "Bob Hastings",
+        "Loren Lester",
+        "Robert Costanzo"
+      ],
+      "plot": "Billionaire Bruce Wayne secretly operates as Batman, a vigilante who battles a rouges' gallery of criminals and supervillains in Gotham City with the aid of various sidekicks and allies.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BYjgwZWUzMzUtYTFkNi00MzM0LWFkMWUtMDViMjMxNGIxNDUxXkEyXkFqcGc@.jpg"
+    },
+    {
+      "id": "tt3032476",
+      "rank": 25,
+      "title": "Better Call Saul",
+      "year": "",
+      "rating": 9.0,
+      "votes": "774K",
+      "duration": "",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDdjNTEzMjMtYjM3Mi00NzQ3LWFlNWMtZjdmYWU3ZDkzMjk1XkEyXkFqcGc@.jpg",
+      "type": "show",
+      "url": "https://www.imdb.com/title/tt3032476/?ref_=chttvtp_t_25",
+      "genres": [
+        "Drug Crime",
+        "Epic",
+        "Legal Drama",
+        "Psychological Drama",
+        "Tragedy"
+      ],
+      "director": "Vince Gilligan",
+      "cast": [
+        "Bob Odenkirk",
+        "Jonathan Banks",
+        "Rhea Seehorn",
+        "Patrick Fabian",
+        "Michael Mando"
+      ],
+      "plot": "The trials and tribulations of criminal lawyer Jimmy McGill in the years leading up to his fateful run-in with Walter White and Jesse Pinkman.",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BNDdjNTEzMjMtYjM3Mi00NzQ3LWFlNWMtZjdmYWU3ZDkzMjk1XkEyXkFqcGc@.jpg"
+    }
+  ]
+}
