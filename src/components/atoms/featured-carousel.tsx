@@ -68,8 +68,8 @@ const FeaturedCarousel = () => {
     <div className="w-full bg-gradient-to-b from-background via-background/95 to-surface/80 py-12 md:py-16 pb-20 md:pb-24 overflow-hidden">
       {/* Header */}
       <div className="max-w-7xl mx-auto px-4 mb-6 md:mb-8 text-right">
-        <h2 className="inline-block bg-black/40 backdrop-blur-sm px-4 py-2 rounded-lg text-2xl md:text-3xl font-bold text-white mb-2">پیشنهاد ویژه</h2>
-        <p className="inline-block bg-black/30 backdrop-blur-sm px-3 py-1.5 rounded-md text-sm md:text-base text-text-secondary/80">فیلم‌های برگزیده این هفته</p>
+        <h2 className="bg-primary/50 backdrop-blur-sm px-4 py-2 rounded-lg text-2xl md:text-3xl font-bold text-white mb-2 inline-block">پیشنهاد ویژه</h2>
+        <p className="bg-surface/70 backdrop-blur-sm px-3 py-1.5 rounded-md text-sm md:text-base text-text-secondary inline-block">فیلم‌های برگزیده این هفته</p>
       </div>
 
       {/* Carousel Container */}
