@@ -1,12 +1,29 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Link from 'next/link';
 import { Clapperboard, Play, Star, Users } from 'lucide-react';
 import { FeaturedCardProps } from './types';
 
-const FeaturedCard: React.FC<FeaturedCardProps> = ({ movie }) => {
+const FeaturedCard: React.FC<FeaturedCardProps> = ({ 
+  movie, 
+  isMobile = false, 
+  isExpanded = false,
+  onToggleExpand 
+}) => {
+  const [isHovered, setIsHovered] = useState(false);
+  
+  // Desktop: hover controls expansion
+  // Mobile: click/tap controls expansion via isExpanded prop
+  const shouldExpand = isMobile ? isExpanded : isHovered;
+
   return (
-    <div className="relative group w-[600px] max-w-[90vw]">
-      <div className="flex flex-row-reverse bg-surface/95 border border-border rounded-2xl overflow-hidden shadow-[0_28px_80px_rgba(0,0,0,0.7)] backdrop-blur">
+    <div
+      className="relative group max-w-[90vw] transition-all duration-500 ease-out overflow-hidden"
+      style={{ width: isMobile ? 240 : (shouldExpand ? 600 : 240) }}
+      onMouseEnter={() => !isMobile && setIsHovered(true)}
+      onMouseLeave={() => !isMobile && setIsHovered(false)}
+      onClick={isMobile ? onToggleExpand : undefined}
+    >
+      <div className="flex flex-row-reverse bg-surface/95 border border-border rounded-2xl overflow-hidden shadow-[0_28px_80px_rgba(0,0,0,0.7)] backdrop-blur h-full">
         {/* ستون راست - پوستر */}
         <div className="relative w-[240px] flex-shrink-0">
           <img 
@@ -15,14 +32,71 @@ const FeaturedCard: React.FC<FeaturedCardProps> = ({ movie }) => {
             className="w-full h-full object-cover"
           />
           {/* Badge امتیاز */}
-          <div className="absolute top-4 right-4 bg-background/80 border border-border/40 backdrop-blur-sm px-4 py-1.5 rounded-full flex items-center gap-1.5 shadow-[0_8px_20px_rgba(0,0,0,0.4)]">
+          <div className="absolute top-4 right-4 bg-background/80 border border-border/40 backdrop-blur-sm px-4 py-1.5 rounded-full flex items-center gap-1.5 shadow-[0_8px_20px_rgba(0,0,0,0.4)] z-20">
             <Star className="w-4 h-4 text-primary fill-primary" />
             <span className="text-text-primary font-bold">{movie.rating.toFixed(1)}</span>
           </div>
+
+          {/* Mobile Overlay - اطلاعات روی پوستر */}
+          {isMobile && shouldExpand && (
+            <div className="absolute inset-0 bg-black/80 backdrop-blur-sm p-4 flex flex-col overflow-y-auto z-10">
+              <h3 className="text-white font-bold text-lg mb-2 leading-tight line-clamp-2">
+                {movie.title}
+              </h3>
+
+              <div className="flex flex-wrap items-center gap-2 text-xs text-gray-300 mb-3">
+                {movie.year && <span>{movie.year}</span>}
+                <span>•</span>
+                <span>رتبه #{movie.rank}</span>
+              </div>
+
+              {movie.genres.length > 0 && (
+                <div className="flex flex-wrap gap-1.5 mb-3">
+                  {movie.genres.slice(0, 3).map((genre) => (
+                    <span 
+                      key={genre}
+                      className="px-2 py-0.5 rounded-full bg-primary/20 text-primary text-xs border border-primary/30"
+                    >
+                      {genre}
+                    </span>
+                  ))}
+                </div>
+              )}
+
+              {movie.director && (
+                <div className="flex items-start gap-1.5 text-xs text-gray-300 mb-2">
+                  <Clapperboard className="w-3 h-3 text-primary mt-0.5 flex-shrink-0" />
+                  <p>
+                    <span className="text-white font-semibold">کارگردان:</span> {movie.director}
+                  </p>
+                </div>
+              )}
+
+              {movie.plot && (
+                <p className="text-gray-300 text-xs leading-relaxed mb-auto line-clamp-4">
+                  {movie.plot}
+                </p>
+              )}
+
+              <Link href={`/movies/${movie.id}`} className="mt-3" onClick={(e) => e.stopPropagation()}>
+                <button className="w-full bg-primary hover:bg-primary-light text-white font-semibold py-2 px-3 rounded-lg flex items-center justify-center gap-2 transition-colors text-sm">
+                  <Play className="w-4 h-4 fill-current" />
+                  <span>جزئیات بیشتر</span>
+                </button>
+              </Link>
+            </div>
+          )}
         </div>
 
-        {/* ستون چپ - اطلاعات (ابتدا مخفی، با hover نمایش داده می‌شود) */}
-        <div className="w-0 group-hover:w-[360px] transition-all duration-500 ease-out overflow-hidden">
+        {/* ستون چپ - اطلاعات دسکتاپ (ابتدا مخفی، با hover نمایش داده می‌شود) */}
+        <div
+          className={`transition-all duration-500 ease-out overflow-hidden flex-shrink-0 ${isMobile ? 'hidden' : ''}`}
+          style={{
+            width: shouldExpand ? 360 : 0,
+            opacity: shouldExpand ? 1 : 0,
+          }}
+          aria-hidden={!shouldExpand}
+        >
           <div className="w-[360px] h-full p-6 flex flex-col">
             {/* عنوان */}
             <h3 className="text-text-primary font-bold text-xl mb-3 leading-tight line-clamp-2">

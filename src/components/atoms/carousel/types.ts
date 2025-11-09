@@ -7,6 +7,9 @@ export interface CarouselCardProps {
 
 export interface FeaturedCardProps {
   movie: Movie;
+  isMobile?: boolean;
+  isExpanded?: boolean;
+  onToggleExpand?: () => void;
 }
 
 export interface CarouselNavigationProps {

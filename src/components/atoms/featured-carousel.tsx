@@ -19,11 +19,25 @@ const FeaturedCarousel = () => {
   }, []);
 
   const [centerIndex, setCenterIndex] = useState(0);
+  const [isMobile, setIsMobile] = useState(false);
+  const [mobileExpandedIndex, setMobileExpandedIndex] = useState<number | null>(null);
 
   useEffect(() => {
     if (!movies.length) return;
     setCenterIndex(Math.floor(movies.length / 2));
   }, [movies.length]);
+
+  // Detect mobile/desktop
+  useEffect(() => {
+    const checkMobile = () => {
+      setIsMobile(window.innerWidth < 768);
+    };
+    
+    checkMobile();
+    window.addEventListener('resize', checkMobile);
+    
+    return () => window.removeEventListener('resize', checkMobile);
+  }, []);
 
   useEffect(() => {
     if (movies.length <= 1) return undefined;
@@ -34,6 +48,13 @@ const FeaturedCarousel = () => {
 
     return () => clearInterval(interval);
   }, [movies.length]);
+
+  // Reset mobile expanded state when center changes
+  useEffect(() => {
+    if (isMobile) {
+      setMobileExpandedIndex(null);
+    }
+  }, [centerIndex, isMobile]);
 
   const visibleMovies = useMemo<VisibleMovie[]>(() => {
     if (!movies.length) return [];
@@ -67,9 +88,9 @@ const FeaturedCarousel = () => {
   return (
     <div className="w-full bg-gradient-to-b from-background via-background/95 to-surface/80 py-12 md:py-16 pb-20 md:pb-24 overflow-hidden">
       {/* Header */}
-      <div className="max-w-7xl mx-auto px-4 mb-6 md:mb-8">
-        <h2 className="text-2xl md:text-3xl font-bold text-text-primary mb-2">پیشنهاد ویژه</h2>
-        <p className="text-sm md:text-base text-text-secondary/80">فیلم‌های برگزیده این هفته</p>
+      <div className="max-w-7xl mx-auto px-4 mb-6 md:mb-8 text-right">
+        <h2 className="bg-primary/50 backdrop-blur-sm px-4 py-2 rounded-lg text-2xl md:text-3xl font-bold text-white mb-2 inline-block">پیشنهاد ویژه</h2>
+        <p className="bg-surface/70 backdrop-blur-sm px-3 py-1.5 rounded-md text-sm md:text-base text-text-secondary inline-block">فیلم‌های برگزیده این هفته</p>
       </div>
 
       {/* Carousel Container */}
@@ -100,7 +121,14 @@ const FeaturedCarousel = () => {
                   onClick={() => handleCardClick(actualIndex)}
                 />
               ) : (
-                <FeaturedCard movie={movie} />
+                <FeaturedCard 
+                  movie={movie}
+                  isMobile={isMobile}
+                  isExpanded={isMobile ? mobileExpandedIndex === centerIndex : undefined}
+                  onToggleExpand={isMobile ? () => {
+                    setMobileExpandedIndex(prev => prev === centerIndex ? null : centerIndex);
+                  } : undefined}
+                />
               )}
             </div>
           );
